@@ -1,0 +1,3 @@
+In this experiment to setup the automation based on define error. 
+You can build external automation job/tool, LLM can give you the function name based on the error, 
+later you can invoke the external tool to automate the failed job healing.
